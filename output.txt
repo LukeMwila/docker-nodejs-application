@@ -1,0 +1,16 @@
+/home/lukondemwila/Documents/software-projects/docker-projects/docker-microservice-backend
+├── Dockerfile
+├── README.md
+├── package-lock.json
+├── package.json
+└── src
+   ├── app.js
+   ├── config
+   ├── controllers
+   ├── index.js
+   ├── models
+   ├── routes
+   └── test
+
+directory: 6 file: 6
+
